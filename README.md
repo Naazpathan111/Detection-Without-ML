@@ -1,3 +1,5 @@
+<img width="981" height="327" alt="outputimg" src="https://github.com/user-attachments/assets/da9d57d3-edc9-49c7-8b60-298ff2dae48b" />
+
 # Detection Without ML 👁️
 
 Real-world object detection and counting using pure classical 
@@ -38,5 +40,3 @@ deep learning was built to solve.
 pip install -r requirements.txt
 python main.py
 
-## Sample Output
-![Pipe Detection Result](output/outputimg.jpg)
